@@ -1,6 +1,7 @@
-# ClientesApp
-
+# ClientesApp - Frontend do projeto ClientesApi
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+
+# Api do projeto => [aqui](https://github.com/Henderson-da-rocha-porfirio/clientes-api-spring-boot-e-angular-cursodsousa)
 
 ## Development server
 
